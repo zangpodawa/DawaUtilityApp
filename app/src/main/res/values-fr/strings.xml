@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">Convertir</string>
+    <string name="result">Résultat</string>
+    <string name="to_currency">Devise :</string>
+    <string name="from_currency">À partir de la devise :</string>
+    <string name="insert_amount">Insérez le montant...</string>
+    <string name="currency_converter">Insérez le montant...</string>
+    <string name="time">Temps</string>
+</resources>

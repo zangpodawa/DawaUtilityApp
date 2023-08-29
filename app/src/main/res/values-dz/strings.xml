@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">bod skad \'bris pa</string>
+    <string name="result">brtsi sgrib</string>
+    <string name="to_currency">dngos grub sgor du</string>
+    <string name="from_currency">dus tshan gzhon:</string>
+    <string name="insert_amount">dzol bshad gsar ...</string>
+    <string name="currency_converter">"dang 'khams "</string>
+    <string name="time">dus tshod</string>
+</resources>

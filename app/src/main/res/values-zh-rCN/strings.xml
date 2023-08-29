@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">Zhuǎnbiàn</string>
+    <string name="result">Jiéguǒ</string>
+    <string name="to_currency">Huòbì:</string>
+    <string name="from_currency">Cóng huòbì:</string>
+    <string name="insert_amount">Chārù jīn\'é...</string>
+    <string name="currency_converter">Huòbì huànsuàn</string>
+    <string name="time">Shíjiān</string>
+</resources>

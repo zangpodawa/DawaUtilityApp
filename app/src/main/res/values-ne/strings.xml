@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">Rūpāntaraṇa garnuhōs</string>
+    <string name="result">Natijā</string>
+    <string name="to_currency">Mudrā kō lāgī:</string>
+    <string name="from_currency">Mudrābāṭa:</string>
+    <string name="insert_amount">Rakama ghusā\'unuhōs...</string>
+    <string name="currency_converter">Mudrā parivartaka</string>
+    <string name="time">Samaya</string>
+</resources>

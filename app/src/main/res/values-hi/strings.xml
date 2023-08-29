@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">badalana</string>
+    <string name="result">parinaam</string>
+    <string name="to_currency">mudra ke lie:</string>
+    <string name="from_currency">mudra se:</string>
+    <string name="insert_amount">raashi daalen...</string>
+    <string name="currency_converter">mudra parivartak</string>
+    <string name="time">samay</string>
+</resources>

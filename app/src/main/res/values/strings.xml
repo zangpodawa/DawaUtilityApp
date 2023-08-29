@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="to_currency">To Currency:</string>
+    <string name="from_currency">From Currency:</string>
+    <string name="insert_amount">Insert amount...</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="time">Time</string>
+    <string name="language" translatable="false">language</string>
+    <string name="currency_converter_logo">Currency converter logo</string>
+    <string-array name="currencies">
+        <item>AUD</item>
+        <item>BTN</item>
+        <item>CNY</item>
+        <item>INR</item>
+        <item>NPR</item>
+        <item>PKR</item>
+        <item>VND</item>
+    </string-array>
+
+    <string-array name="shortLanguages">
+        <item>en</item>
+        <item>zh</item>
+        <item>dz</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>ne</item>
+        <item>vi</item>
+    </string-array>
+</resources>

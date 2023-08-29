@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DawaUtilityApp</string>
+    <string name="convert">Chuyển thành</string>
+    <string name="result">Kết quả</string>
+    <string name="to_currency">Sang tiền tệ:</string>
+    <string name="from_currency">Từ tiền tệ:</string>
+    <string name="insert_amount">Chèn số tiền...</string>
+    <string name="currency_converter">Chuyển đổi tiền tệ</string>
+    <string name="time">Thời gian</string>
+</resources>
